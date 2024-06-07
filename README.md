@@ -5,7 +5,7 @@
         alt="Headline" 
     />
 </div>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<!--<h3 align="center">A passionate frontend developer from Sri Lanka</h3>-->
 <p align="center">
    <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
